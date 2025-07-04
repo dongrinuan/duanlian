@@ -1,0 +1,125 @@
+[02-Apr-2025 15:30:43 Asia/Shanghai] PHP Fatal error:  Cannot redeclare sendJsonResponse() (previously declared in D:\phpstudy_pro\WWW\ceshi11\api.php:414) in D:\phpstudy_pro\WWW\ceshi11\includes\functions.php on line 191
+[02-Apr-2025 15:32:51 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:32:51 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:32:51 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:32:51 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:32:51 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:32:56 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:32:56 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:32:56 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:32:56 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:32:56 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:33:36 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:33:36 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:33:36 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:33:36 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:33:36 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:33:39 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:33:39 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:33:39 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:33:39 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:33:39 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:34:17 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:34:17 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:34:17 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:34:17 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:34:17 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:35:02 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:35:02 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:35:02 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:35:02 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:35:02 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:35:58 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:35:58 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:35:58 Asia/Shanghai] 所有请求头: {"Cookie":"PHPSESSID=355lbfd2gerppv3mi860pn6jec","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/lian\/","Origin":"http:\/\/lian","Accept":"*\/*","Content-Type":"application\/x-www-form-urlencoded","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0","Content-Length":"34","Connection":"keep-alive","Host":"lian"}
+[02-Apr-2025 15:35:58 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:35:58 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:35:58 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:36:02 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:36:02 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:36:02 Asia/Shanghai] 所有请求头: {"Cookie":"PHPSESSID=355lbfd2gerppv3mi860pn6jec","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/lian\/","Origin":"http:\/\/lian","Accept":"*\/*","Content-Type":"application\/x-www-form-urlencoded","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0","Content-Length":"34","Connection":"keep-alive","Host":"lian"}
+[02-Apr-2025 15:36:02 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:36:02 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:36:02 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:36:06 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com\/"}
+[02-Apr-2025 15:36:06 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com%2F
+[02-Apr-2025 15:36:06 Asia/Shanghai] 所有请求头: {"Cookie":"PHPSESSID=355lbfd2gerppv3mi860pn6jec","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/lian\/","Origin":"http:\/\/lian","Accept":"*\/*","Content-Type":"application\/x-www-form-urlencoded","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0","Content-Length":"34","Connection":"keep-alive","Host":"lian"}
+[02-Apr-2025 15:36:06 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:36:06 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码长度: 0
+[02-Apr-2025 15:36:06 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:36:18 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.com"}
+[02-Apr-2025 15:36:18 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.com
+[02-Apr-2025 15:36:18 Asia/Shanghai] 所有请求头: {"Cookie":"PHPSESSID=355lbfd2gerppv3mi860pn6jec","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/lian\/","Origin":"http:\/\/lian","Accept":"*\/*","Content-Type":"application\/x-www-form-urlencoded","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0","Content-Length":"31","Connection":"keep-alive","Host":"lian"}
+[02-Apr-2025 15:36:18 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:36:18 Asia/Shanghai] 处理URL: https://www.zjnav.com, 密码长度: 0
+[02-Apr-2025 15:36:18 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:36:21 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.co"}
+[02-Apr-2025 15:36:21 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.co
+[02-Apr-2025 15:36:21 Asia/Shanghai] 所有请求头: {"Cookie":"PHPSESSID=355lbfd2gerppv3mi860pn6jec","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/lian\/","Origin":"http:\/\/lian","Accept":"*\/*","Content-Type":"application\/x-www-form-urlencoded","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0","Content-Length":"30","Connection":"keep-alive","Host":"lian"}
+[02-Apr-2025 15:36:21 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:36:21 Asia/Shanghai] 处理URL: https://www.zjnav.co, 密码长度: 0
+[02-Apr-2025 15:36:21 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:36:26 Asia/Shanghai] 处理JSON请求: {"batch":true,"urls":["https://www.zjnav.com/"]}
+[02-Apr-2025 15:36:31 Asia/Shanghai] POST请求详情: {"url":"https:\/\/www.zjnav.co"}
+[02-Apr-2025 15:36:31 Asia/Shanghai] 原始POST数据: url=https%3A%2F%2Fwww.zjnav.co
+[02-Apr-2025 15:36:31 Asia/Shanghai] 所有请求头: {"Cookie":"PHPSESSID=355lbfd2gerppv3mi860pn6jec","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/lian\/","Origin":"http:\/\/lian","Accept":"*\/*","Content-Type":"application\/x-www-form-urlencoded","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0","Content-Length":"30","Connection":"keep-alive","Host":"lian"}
+[02-Apr-2025 15:36:31 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:36:31 Asia/Shanghai] 处理URL: https://www.zjnav.co, 密码长度: 0
+[02-Apr-2025 15:36:31 Asia/Shanghai] 参数缺失: URL=是, 密码=否
+[02-Apr-2025 15:40:09 Asia/Shanghai] 原始POST数据内容: url=https%3A%2F%2Fwww.zjnav.com%2F&password=999
+[02-Apr-2025 15:40:09 Asia/Shanghai] 当前POST数组: Array
+(
+    [url] => https://www.zjnav.com/
+    [password] => 999
+)
+
+[02-Apr-2025 15:40:09 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:40:09 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码: 999, 密码长度: 3
+[02-Apr-2025 15:40:09 Asia/Shanghai] POST数据接收: {"url":"https:\/\/www.zjnav.com\/","password":"999"}
+[02-Apr-2025 15:40:28 Asia/Shanghai] 处理JSON请求: {"batch":true,"urls":["https://www.zjnav.com/","https://www.zjnav.com/","https://www.zjnav.com/","https://www.zjnav.com/"],"password":"111"}
+[02-Apr-2025 15:44:05 Asia/Shanghai] 原始POST数据内容: url=https%3A%2F%2Fwww.zjnav.com%2F&password=111
+[02-Apr-2025 15:44:05 Asia/Shanghai] 当前POST数组: Array
+(
+    [url] => https://www.zjnav.com/
+    [password] => 111
+)
+
+[02-Apr-2025 15:44:05 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:44:05 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码: 111, 密码长度: 3
+[02-Apr-2025 15:44:05 Asia/Shanghai] POST数据接收: {"url":"https:\/\/www.zjnav.com\/","password":"111"}
+[02-Apr-2025 15:47:56 Asia/Shanghai] 原始POST数据内容: url=https%3A%2F%2Fwww.zjnav.com%2F&password=111
+[02-Apr-2025 15:47:56 Asia/Shanghai] 当前POST数组: Array
+(
+    [url] => https://www.zjnav.com/
+    [password] => 111
+)
+
+[02-Apr-2025 15:47:56 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[02-Apr-2025 15:47:56 Asia/Shanghai] 处理URL: https://www.zjnav.com/, 密码: 111, 密码长度: 3
+[02-Apr-2025 15:47:56 Asia/Shanghai] POST数据接收: {"url":"https:\/\/www.zjnav.com\/","password":"111"}
+[03-Apr-2025 13:49:37 Asia/Shanghai] 原始POST数据内容: url=https%3A%2F%2Fpan.baidu.com%2Fshare%2Finit%3Fsurl%3DVQbuqaqL7RcD4BsAvk4cUg%26pwd%3D8888&password=111
+[03-Apr-2025 13:49:37 Asia/Shanghai] 当前POST数组: Array
+(
+    [url] => https://pan.baidu.com/share/init?surl=VQbuqaqL7RcD4BsAvk4cUg&pwd=8888
+    [password] => 111
+)
+
+[03-Apr-2025 13:49:37 Asia/Shanghai] Content-Type: application/x-www-form-urlencoded
+[03-Apr-2025 13:49:37 Asia/Shanghai] 处理URL: https://pan.baidu.com/share/init?surl=VQbuqaqL7RcD4BsAvk4cUg&amp;pwd=8888, 密码: 111, 密码长度: 3
+[03-Apr-2025 13:49:37 Asia/Shanghai] POST数据接收: {"url":"https:\/\/pan.baidu.com\/share\/init?surl=VQbuqaqL7RcD4BsAvk4cUg&pwd=8888","password":"111"}
+[03-Jul-2025 21:12:06 Asia/Shanghai] PHP Warning:  mysqli::__construct(): (HY000/2002): ����Ŀ����������ܾ����޷����ӡ�
+ in D:\phpstudy_pro\WWW\ceshi11\includes\config.php on line 36
+[03-Jul-2025 21:12:06 Asia/Shanghai] 数据库连接失败: ����Ŀ�����������ܾ����޷����ӡ�
+
+[03-Jul-2025 21:12:14 Asia/Shanghai] PHP Warning:  mysqli::__construct(): (HY000/2002): ����Ŀ����������ܾ����޷����ӡ�
+ in D:\phpstudy_pro\WWW\ceshi11\includes\config.php on line 36
+[03-Jul-2025 21:12:14 Asia/Shanghai] 数据库连接失败: ����Ŀ�����������ܾ����޷����ӡ�
+
+[03-Jul-2025 21:12:18 Asia/Shanghai] PHP Warning:  mysqli::__construct(): (HY000/2002): ����Ŀ����������ܾ����޷����ӡ�
+ in D:\phpstudy_pro\WWW\ceshi11\includes\config.php on line 36
+[03-Jul-2025 21:12:18 Asia/Shanghai] 数据库连接失败: ����Ŀ�����������ܾ����޷����ӡ�
+
+[03-Jul-2025 21:12:57 Asia/Shanghai] PHP Warning:  mysqli::__construct(): (HY000/2002): ����Ŀ����������ܾ����޷����ӡ�
+ in D:\phpstudy_pro\WWW\ceshi11\includes\config.php on line 36
+[03-Jul-2025 21:12:57 Asia/Shanghai] 数据库连接失败: ����Ŀ�����������ܾ����޷����ӡ�
+
